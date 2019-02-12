@@ -1,6 +1,7 @@
-#Infrastructure As Code#
+# Infrastructure As Code#
 
-##Terraform
+## Terraform
+
 **Steps to run the terraform setup locally on your machine** 
 1. Clone the repo on your machine 
 2. Add AWS creds from command line
