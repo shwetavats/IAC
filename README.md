@@ -13,3 +13,9 @@ region = "<region>"
 dynamodb_table = "<DynamoDbTableName>"
 
 ```
+4. Create a Environment directory. One for each env & run init command inside the ENV directory.
+```
+mkdir beta
+cd beta
+terraform init -backend-config=../backend.conf
+```
